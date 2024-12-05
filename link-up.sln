@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "link-up", "link-up.csproj", "{BA9A7663-C8AB-43C1-9F70-E68647E09785}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA9A7663-C8AB-43C1-9F70-E68647E09785}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA9A7663-C8AB-43C1-9F70-E68647E09785}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA9A7663-C8AB-43C1-9F70-E68647E09785}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA9A7663-C8AB-43C1-9F70-E68647E09785}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4607BD61-7297-474E-85D9-A9A60D9F7CB9}
+	EndGlobalSection
+EndGlobal

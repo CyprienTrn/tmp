@@ -1,0 +1,10 @@
+version: "3.9" # Version du fichier Compose
+
+services:
+  web:
+    tty: true
+    build: .
+    environment:
+      - ASPNETCORE_URLS=http://127.0.0.1:8080
+    ports:
+      - "8080:5053" # Redirige le port 8080 sur l'hôte vers le port 5053 dans le conteneur
